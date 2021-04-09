@@ -1,6 +1,10 @@
+/*check whether a number is even or odd
+no need for math library */
+
+
 int number = 4;
 if(number % 2 == 0)
 cout << "yes";
 else cout<< "no";
 
-//no need for math library
+
