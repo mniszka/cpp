@@ -1,4 +1,4 @@
-# C++ for beginners
+# programming main concepts in C++
 
 1. modulo
 2. int, const
