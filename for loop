@@ -12,11 +12,10 @@ int main() {
   int t=0; //thief time
   int p=-30; //policeman time
 
-  for(t, p; t>p; t+=4, p+=6)
-  { 
-    
-   }
+  for(t, p; t>p; t+=4, p+=6) {}
+  
   p=p+30;
+  
   cout<<t;
   cout<<p;
   
