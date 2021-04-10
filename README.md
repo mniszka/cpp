@@ -7,10 +7,11 @@
 5. increment/decrement operators
 6. infinite loop
 7. array
-8. loop
-9. switch
-10. function
-11. void
-12. math and logic operators
-13. bitwise operators
+8. for loop
+9. while/ do ... while loop
+10. switch
+11. functions
+12. void
+13. math and logic operators
+14. bitwise operators
 
