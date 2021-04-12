@@ -1,4 +1,0 @@
-pre-increment ++a
-post-increment a++
-pre-decrement --a
-post-decrement a--
