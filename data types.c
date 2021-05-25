@@ -1,0 +1,5 @@
+int age = 30; //it stores an integer (whole number)
+double gpa = 3.7; // decimal number
+float ;//decimal number
+char grade = 'A';// single character
+char name[] = "Anna German";// string of characters which cannot be modified
