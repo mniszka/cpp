@@ -5,4 +5,5 @@ number++ ; //4
 
 //CONST:
 const int number = 2;
-number++ ; // ERROR!
+number++ ; // ERROR! constants cannot be modified
+
