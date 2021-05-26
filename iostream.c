@@ -13,7 +13,10 @@ printf("I'm %d years old", age);
 return 0;
 }
 /*
-%s -> text
-%d -> integer
-%f -> decimal number
+%s -> string of letters
+%d -> decimal integer
+%i -> integer
+%f -> floating point number
+
+%d assume base 10 while %i auto detects the base
 */
