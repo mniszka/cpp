@@ -18,11 +18,11 @@ printf("I'm %d years old", age);
 //printf:
 int age; //declare a variable
 printf("Enter yoaur age\n");
-scanf("%d", &age);//pointer
+scanf("%d", &age);//pointer when we use %d, %f, %c- we accessing the address of "age" variable
 printf("You are %d years old", age);
   
 //fgets:
-char name[20];
+char name[20];// memory needs to be allocated for the variable (up to 20 characters)
 printf ("Enter your name and surname \n");
 fgets(name, 20, stdin);
 printf ("Your name is %s", name);
