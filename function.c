@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+
 
 int main()
 {
@@ -12,4 +11,18 @@ void cat(char name[], int age) //the void function isn't going to return informa
 {
   printf("Hi, my name is %s and I'm %d years old\n", name, age );
 
+}
+
+// another example, function that return information:
+
+int age(int number)//this function should be written first
+{
+  return number *2;
+}
+
+int main()
+{
+ printf("The cat is 3 years old. In two years cat's age will be %i years old", age(3));
+
+  return 0;
 }
